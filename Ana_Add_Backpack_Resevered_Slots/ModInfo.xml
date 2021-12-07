@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Ana_Add_Backpack_Resevered_Slots" />
+		<Description value="Turns on the reserved slots for the backpack.  A20 b218" />
+		<Author value="Anabella" />
+		<Version value="1.0.0" />
+		<Website value="" />
+	</ModInfo>
+</xml>
